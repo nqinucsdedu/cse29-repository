@@ -10,4 +10,6 @@ This page contain the following content.
 
 [newfile](https://nqinucsdedu.github.io/cse29-repository/new_file.html)
 
+[this](https://nqinucsdedu.github.io/cse29-repository/new_file2.html)
+
 
