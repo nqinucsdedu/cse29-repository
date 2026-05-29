@@ -1,6 +1,8 @@
 New file:
 
-This page contains the following content.
+This page contain the following content.
+
+
 
 [directory](https://nqinucsdedu.github.io/cse29-repository/)
 
