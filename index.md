@@ -6,4 +6,4 @@ The following indices:
 3. 3
 
 The link to this page is:
-[Link]https://nqinucsdedu.github.io/cse29-repository/
+[Link] https://nqinucsdedu.github.io/cse29-repository/
