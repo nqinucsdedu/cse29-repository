@@ -5,7 +5,10 @@ The following indices:
 2. 2
 3. 3
 
-The link to this page is:
-[Link] https://nqinucsdedu.github.io/cse29-repository/
+The link to this page is: [Link](https://nqinucsdedu.github.io/cse29-repository/index.html)
 
-[https://nqinucsdedu.github.io/cse29-repository/index.html]
+New_file: [Link](https://nqinucsdedu.github.io/cse29-repository/new_file.html)
+
+
+
+
